@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @kadumon
+- 👀 I’m interested in Cryptocurrencies, Blockchain and Web Design 
+- 🌱 I’m currently learning HTML. CSS, JS, PHP and Python
+- 💞️ I’m looking to collaborate on nothing
+- 📫 Send a message on instagram: https://www.instagram.com/kadumon_/ or email: kadumon.br@gmail.com
